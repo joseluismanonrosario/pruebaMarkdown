@@ -60,3 +60,7 @@ This is how you dropdown.
 </details>
 
 <button name="button" onclick="#top">Click me</button>
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
+<span style="color:red">some **This is Red Bold.** text</span>
